@@ -6,9 +6,9 @@ import { getFirestore } from 'firebase/firestore';
 const firebaseConfig = {
     apiKey: process.env.FIREBASE_API_KEY,
     authDomain: process.env.FIREBASE_AUTH_DOMAIN,
-    projectId: "pfi-backnode",
+    projectId: "pfi-backnode-4e2c2",
     storageBucket: process.env.FIREBASE_STORAGE_BUCKET,
-    messagingSenderId: "269354369414",
+    messagingSenderId: "1042701397474",
     appId: process.env.FIREBASE_APP_ID
 };
 
